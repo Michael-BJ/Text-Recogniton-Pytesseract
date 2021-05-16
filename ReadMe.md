@@ -20,3 +20,7 @@ img_string = pytesseract.image_to_string(img)
 ````
 print(img_string)
 ````
+# Demo
+
+Clik the picture to see the Video
+[![Watch the video](https://img.youtube.com/vi/v71L-u0qiVk/maxresdefault.jpg)](https://youtu.be/v71L-u0qiVk)
